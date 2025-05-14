@@ -1,0 +1,101 @@
+Index,Name,Brand,Category,Price,Currency,Stock,EAN,Color,Size,Availability,Internal ID
+1,Compact Printer Air Advanced Digital,"Garner, Boyle and Flynn",Books & Stationery,265,USD,774,2.09E+12,ForestGreen,L,pre_order,56
+2,Tablet,Mueller Inc,Shoes & Footwear,502,USD,81,5.29E+12,Black,8x10 in,in_stock,29
+3,Smart Blender Cooker,"Lawson, Keller and Winters",Kitchen Appliances,227,USD,726,1.28E+12,SlateGray,XS,in_stock,70
+4,Advanced Router Rechargeable,Gallagher and Sons,Kitchen Appliances,121,USD,896,3.88E+12,PaleGreen,L,discontinued,31
+5,Portable Mouse Monitor Phone,Irwin LLC,Kids' Clothing,1,USD,925,9.06E+12,SeaShell,100x200 mm,discontinued,10
+6,Radio,"Benjamin, Nelson and Hancock",Skincare,426,USD,549,1.15E+12,CornflowerBlue,30x40 cm,pre_order,60
+7,Ultra Projector Oven Thermostat Prime Advanced,"Mccoy, Waters and Rose",Laptops & Computers,68,USD,870,5.03E+12,Purple,S,discontinued,86
+8,Webcam Stove Grill,Morrow and Sons,Automotive,159,USD,584,9.88E+12,MOrchid,8x10 in,pre_order,50
+9,Eco Radio,"Edwards, Odonnell and Conley",Skincare,454,USD,499,1.77E+12,DimGray,M,pre_order,88
+10,Ultra Powerbank Brush Charger Max,"Brennan, Archer and Rosales",Fitness Equipment,845,USD,564,4.88E+12,Silver,XL,discontinued,88
+11,Wireless Dock,Russo-West,Health & Wellness,257,USD,168,9.68E+12,Wheat,XL,pre_order,30
+12,Fast Camera Router Fan Smart,Vazquez and Sons,Cleaning Supplies,221,USD,672,8.57E+12,MidnightBlue,M,pre_order,32
+13,Heater Radio,Delgado-Blackwell,Cycling,689,USD,156,5.69E+12,Orange,L,pre_order,57
+14,Smart Trimmer Webcam Heater,Contreras PLC,Automotive,279,USD,818,1.94E+12,Gainsboro,XXL,pre_order,66
+15,Webcam Dock Heater,"Juarez, Powell and Travis",Cleaning Supplies,101,USD,159,1.44E+12,Sienna,30x40 cm,pre_order,88
+16,Automatic Watch Lite Sense,"Reid, Chase and Ballard",Team Sports,316,USD,329,3.50E+12,Tan,5x7 in,limited_stock,44
+17,Eco Iron Monitor Air,Barker-Murphy,Automotive,982,USD,47,7.89E+12,OliveDrab,XL,out_of_stock,79
+18,Digital Tablet Router Printer Lite,Vazquez-Smith,Health & Wellness,3,USD,732,4.17E+12,LemonChiffon,10x10 cm,backorder,87
+19,Eco Freezer Powerbank Watch,"Pruitt, Higgins and Barnett",Cleaning Supplies,340,USD,618,6.34E+12,Cyan,S,limited_stock,21
+20,Cooler Fan,Bray LLC,Smartphones,529,USD,844,2.67E+11,Bisque,XS,backorder,22
+21,Portable Camera Plus Air Ultra,Wang-Valenzuela,Women's Clothing,197,USD,163,9.64E+11,Magenta,L,in_stock,96
+22,Wireless Powerbank 360 Advanced Ultra,Carney Ltd,Bedding & Bath,677,USD,418,3.92E+12,Beige,M,out_of_stock,90
+23,Rechargeable Lamp Speakerphone Headphones,"Gallegos, Osborne and Carpenter",Skincare,664,USD,577,1.82E+12,DarkBlue,L,pre_order,26
+24,Mini Scooter Microphone,"Douglas, Thornton and Soto",Grooming Tools,784,USD,510,9.84E+12,DimGray,L,backorder,55
+25,Rechargeable Webcam Stove Grill,Horn-Pope,Health & Wellness,900,USD,623,6.50E+12,PaleGreen,5x7 in,out_of_stock,47
+26,Mini Iron Drone Wireless Pro,Khan-Parrish,Cycling,909,USD,797,9.50E+12,CadetBlue,XXL,limited_stock,93
+27,Portable Freezer Phone Automatic Smart,Burton PLC,Automotive,350,USD,756,3.49E+12,Snow,XL,pre_order,61
+28,Wireless Webcam Stove Grill,Henry Group,Clothing & Apparel,858,USD,912,7.10E+12,LightSalmon,50x70 cm,limited_stock,43
+29,Clock Brush,Larson-Spence,Furniture,985,USD,180,8.30E+12,SaddleBrown,XL,in_stock,40
+30,Keyboard Toaster Monitor,Bonilla-Spears,Kids' Clothing,576,USD,988,6.64E+12,DarkSlateGray,L,pre_order,40
+31,Silent Printer Fan Shaver,Love LLC,Sports & Outdoors,102,USD,669,5.56E+12,MSpringGreen,L,limited_stock,14
+32,Wireless Scooter Clean Mini,Terry-Oliver,Fragrances,283,USD,343,9.92E+12,MintCream,S,pre_order,84
+33,Advanced Microphone Cooler Eco,"Morales, Weaver and Fernandez",Smartphones,904,USD,532,7.11E+12,LightCyan,XL,limited_stock,86
+34,Automatic Brush Fast Eco,Newman Ltd,Kids' Clothing,407,USD,285,2.33E+12,SeaGreen,8x10 in,out_of_stock,65
+35,Premium Bicycle Microphone,"Novak, Archer and Walton",Shoes & Footwear,480,USD,364,6.21E+12,AliceBlue,XL,discontinued,78
+36,Smart Phone Scooter Clean,Marshall-Dougherty,Women's Clothing,635,USD,727,7.88E+12,MVioletRed,10x10 cm,backorder,74
+37,Bicycle,Hays-Cunningham,Smartphones,234,USD,394,7.67E+12,White,10x10 cm,backorder,48
+38,Ultra Dock Trimmer Automatic Edge,Barnes-Glass,Kids' Clothing,640,USD,780,2.84E+12,LightBlue,5x7 in,discontinued,96
+39,Wireless Tablet Router Printer Wireless Premium Air,Meyers-Hess,Sports & Outdoors,781,USD,947,8.25E+12,BlanchedAlmond,XL,out_of_stock,69
+40,Clean Printer Advanced Premium Sense,Williamson PLC,Haircare,913,USD,820,5.23E+12,Moccasin,S,discontinued,77
+41,Silent Dock Fast,"May, Hendrix and Robbins",Fishing & Hunting,100,USD,802,9.38E+11,CadetBlue,M,limited_stock,12
+42,Ultra Speakerphone Oven Go Smart X,"Zimmerman, Barr and Davis",Office Supplies,999,USD,853,4.50E+11,MOrchid,12x18 in,pre_order,23
+43,Rechargeable Projector Pro,"Levine, Martin and Mccann",Home Decor,935,USD,55,6.55E+11,SlateBlue,XL,limited_stock,52
+44,Eco Vacuum,Werner PLC,Health & Wellness,259,USD,668,8.61E+12,LightCoral,5x7 in,in_stock,45
+45,Smart Grill Tablet Fridge Go Smart Smart,"Huff, Cameron and Stephenson",Fitness Equipment,488,USD,966,9.01E+12,Cornsilk,10x10 cm,out_of_stock,62
+46,Digital Stove Silent Pro,"Suarez, Riddle and Sanders",Health & Wellness,161,USD,349,5.37E+12,OrangeRed,XL,limited_stock,9
+47,Portable Powerbank X Air,Hanson-Schultz,Camping & Hiking,599,USD,263,6.85E+12,Moccasin,L,discontinued,17
+48,Clock,"Malone, Jacobson and Hudson",Team Sports,731,USD,664,1.38E+12,FloralWhite,S,limited_stock,55
+49,Radio Treadmill,Barron-Little,Office Supplies,511,USD,395,5.46E+12,Violet,XL,discontinued,14
+50,Ultra Cooler Treadmill Touch Pro Ultra,Bonilla-Oconnell,Fragrances,214,USD,574,3.63E+12,NavajoWhite,XXL,pre_order,33
+51,Mini Fridge Camera,Decker and Sons,Fitness Equipment,777,USD,832,4.89E+12,PaleGoldenRod,XL,in_stock,16
+52,Rechargeable Tablet Plus Portable Mini,Mooney-Gonzales,Fragrances,820,USD,535,8.18E+12,Cyan,100x200 mm,in_stock,19
+53,Tablet,"Blake, Weiss and Montgomery",Beauty & Personal Care,408,USD,922,8.18E+12,Chocolate,M,backorder,34
+54,Wireless Light Toaster Lite Touch Eco,Singleton PLC,Bedding & Bath,791,USD,827,3.06E+12,Fuchsia,50x70 cm,in_stock,64
+55,Scooter,Rivas Group,Cameras & Accessories,370,USD,601,1.97E+12,DarkOrchid,L,backorder,46
+56,Advanced Camera Heater Webcam X Ultra Prime,Cervantes Ltd,Office Supplies,224,USD,372,9.83E+11,Peru,50x70 cm,discontinued,56
+57,Ultra Keyboard Compact Eco,Pace-Hodges,Books & Stationery,514,USD,491,8.48E+12,LightGray,8x10 in,backorder,19
+58,Portable Scale Speaker Powerbank Clean,Morris LLC,Women's Clothing,689,USD,332,5.18E+12,PowderBlue,S,backorder,94
+59,Oven Speaker Fan,Schwartz Ltd,Men's Clothing,489,USD,423,2.57E+12,GoldenRod,S,pre_order,99
+60,Automatic Speaker Router Lamp Prime,"Sexton, Dickerson and Blair",Grooming Tools,621,USD,667,6.74E+12,FireBrick,5x7 in,in_stock,61
+61,Smart Webcam Projector Lock,Stokes Inc,Men's Clothing,440,USD,973,4.81E+12,SteelBlue,M,in_stock,3
+62,Fast Fan,Ali-Oliver,Cleaning Supplies,982,USD,804,3.39E+12,DarkOrchid,100x200 mm,backorder,70
+63,Automatic Cooler Edge,"Odonnell, Boyle and Oconnor",Beauty & Personal Care,124,USD,513,6.26E+12,LimeGreen,50x70 cm,pre_order,83
+64,Advanced Freezer Advanced Advanced,Gill LLC,Office Supplies,489,USD,561,6.47E+12,Tomato,S,pre_order,48
+65,Silent Trimmer Shaver Fast,Munoz Group,Smartphones,130,USD,876,4.09E+12,DarkSlateGray,5x7 in,in_stock,76
+66,Treadmill,"Frost, Christensen and Burnett",Women's Clothing,731,USD,744,4.60E+12,Cyan,5x7 in,out_of_stock,70
+67,Mini Charger Lock Oven Sense Sense,"Burton, Gross and Giles",Haircare,750,USD,623,9.28E+12,Olive,12x18 in,in_stock,81
+68,Thermostat Trimmer,"Hester, Love and Lynch","Accessories (Bags, Hats, Belts)",206,USD,677,8.28E+12,MidnightBlue,8x10 in,discontinued,6
+69,Clean Iron Premium Air Wireless,"Shepherd, Greene and House",Beauty & Personal Care,293,USD,700,7.94E+12,GhostWhite,XXL,out_of_stock,5
+70,Compact Mouse Mouse Router Mini,Barry PLC,Smartwatches,5,USD,247,2.53E+11,PapayaWhip,10x10 cm,limited_stock,79
+71,Premium Lock Mini Advanced,"Elliott, Mcfarland and Duran",Automotive,12,USD,439,4.00E+12,Plum,XS,pre_order,40
+72,Silent Webcam Webcam Treadmill Sense Portable Advanced,George-Day,Makeup,148,USD,650,6.91E+12,Aqua,M,backorder,29
+73,Compact Thermostat Oven,Hull Inc,Home & Kitchen,685,USD,747,7.70E+12,SaddleBrown,30x40 cm,in_stock,36
+74,Wireless Watch Tablet Printer Automatic Eco Sense,Fleming Inc,Smartwatches,59,USD,169,1.09E+12,Sienna,L,out_of_stock,31
+75,Automatic Blender,Mahoney-Bryan,Home Decor,630,USD,438,3.11E+11,LightGoldenRodYellow,8x10 in,backorder,4
+76,Rechargeable Webcam Dock Heater,Kennedy-Gordon,Cycling,800,USD,151,1.34E+12,Brown,XXL,in_stock,66
+77,Clean Toaster Oven Air Touch,Olsen-Sawyer,Kids' Clothing,365,USD,71,7.81E+12,LimeGreen,M,pre_order,40
+78,Brush,"Lowe, Mosley and Rivera",Bedding & Bath,273,USD,623,1.68E+11,RoyalBlue,S,in_stock,42
+79,Portable Kettle,Sampson-Leon,Home & Kitchen,50,USD,413,4.45E+11,MAquaMarine,L,pre_order,25
+80,Rechargeable Brush Compact,Castro-Mccarty,Automotive,748,USD,326,6.86E+12,Sienna,S,out_of_stock,81
+81,Fast Heater Cooker Compact Silent,"Decker, Montes and Logan",Makeup,367,USD,19,3.87E+12,Orchid,8x10 in,in_stock,15
+82,Mini Drone X Portable,Whitney Group,Books & Stationery,352,USD,123,9.44E+12,BlueViolet,M,backorder,12
+83,Heater Keyboard,Brooks and Sons,Office Supplies,103,USD,208,5.33E+12,Chocolate,XL,backorder,72
+84,Wireless Fan Thermostat Max Automatic Max,Kaiser-Banks,Books & Stationery,423,USD,759,1.40E+12,MidnightBlue,5x7 in,in_stock,81
+85,Fast Keyboard,Lewis Ltd,Camping & Hiking,998,USD,10,3.16E+12,Cyan,50x70 cm,limited_stock,64
+86,Ultra Mixer Toaster Toaster Smart,Galloway and Sons,Women's Clothing,342,USD,221,4.86E+12,Tomato,S,pre_order,88
+87,Silent Speakerphone Scanner Monitor,Cowan Inc,Fragrances,593,USD,580,1.71E+12,Navy,XXL,discontinued,20
+88,Silent Scanner Monitor Treadmill,"Nichols, Howe and Miller",Health & Wellness,30,USD,728,1.29E+12,Wheat,10x10 cm,pre_order,60
+89,Fast Vacuum Cooler,Blair-Russell,Sports & Outdoors,307,USD,320,4.87E+12,LightSalmon,L,limited_stock,5
+90,Digital Trimmer,Christian-Tanner,Laptops & Computers,541,USD,488,4.15E+12,SteelBlue,M,pre_order,31
+91,Automatic Trimmer Sense,Harrington-Valentine,Kitchen Appliances,405,USD,950,524638185,SlateGray,8x10 in,in_stock,85
+92,Portable Scooter Wireless Digital,Bauer Inc,Cameras & Accessories,519,USD,495,4.56E+12,DeepSkyBlue,L,in_stock,36
+93,Fridge Cooker,Jackson Group,Furniture,393,USD,499,1.86E+12,Black,S,in_stock,80
+94,Scanner,"Wang, Ayala and Bowen",Cleaning Supplies,472,USD,63,7.79E+12,ForestGreen,12x18 in,backorder,8
+95,Ultra Radio Radio,Maldonado-Ritter,Haircare,382,USD,639,3.61E+12,Aquamarine,12x18 in,pre_order,48
+96,Router,Atkinson Inc,Laptops & Computers,375,USD,703,3.33E+12,Gainsboro,8x10 in,limited_stock,55
+97,Fast Thermostat Microphone Scooter,Shea Ltd,Beauty & Personal Care,289,USD,727,9.27E+12,White,XL,backorder,25
+98,Eco Heater Toaster Stove Silent Sense,West Ltd,Cleaning Supplies,232,USD,998,5.51E+12,OldLace,S,limited_stock,20
+99,Clean Blender Scale Lite,"Bell, Gamble and Barrett",Camping & Hiking,241,USD,391,3.89E+12,Aquamarine,5x7 in,limited_stock,5
+100,Smart Lamp,"Hebert, Hughes and Trujillo",Bedding & Bath,71,USD,518,8.26E+12,Brown,M,limited_stock,3
