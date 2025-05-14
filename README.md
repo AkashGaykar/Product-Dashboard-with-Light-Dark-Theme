@@ -29,8 +29,8 @@ This interactive dashboard is built using [Plotly Dash](https://dash.plotly.com/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AkashGaykar/Sample.git
-   cd Sample 
+   git clone https://github.com/AkashGaykar/Product-Dashboard-with-Light-Dark-Theme.git
+   cd Product-Dashboard-with-Light-Dark-Theme
 
 2. **Create a virtual environment**
     ```bash
